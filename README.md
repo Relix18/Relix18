@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Relix18
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me through email -  mumtaj08ahmad@gmail.com.
 
 <!---
