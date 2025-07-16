@@ -19,6 +19,6 @@ I’m Full Stack developer 2+ years of experience.
 ![](https://github-contributor-stats.vercel.app/api?username=Relix18&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Relix18&icon=0&color=1)](https://visitcount.itsvg.in)
+<img src="https://komarev.com/ghpvc/?username=relix18&label=Profile%20views&color=0e75b6&style=flat" alt="relix18" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
