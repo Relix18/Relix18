@@ -8,9 +8,8 @@
 
 <br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ig_relix)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/relixcoding)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/relix_coding)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:relix049@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=relix18&label=Profile%20Views&color=61DAFB&style=for-the-badge" alt="relix18" />
 
@@ -58,8 +57,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Relix18&theme=transparent&hide_border=false&include_all_commits=true&count_private=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Relix18&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=Relix18&theme=transparent&hide_border=false" />
 
@@ -87,7 +84,11 @@
 
 ### 🐍 Contribution Snake
 
-![](https://raw.githubusercontent.com/Relix18/Relix18/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Relix18/Relix18/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Relix18/Relix18/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Relix18/Relix18/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
